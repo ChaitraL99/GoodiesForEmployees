@@ -49,3 +49,6 @@ git clone https://github.com/ChaitraL99/GoodiesForEmployees
 cd GoodiesForEmployees
 
 python goodies.py
+
+4.
+The path of the file has to be changed accordingly.
