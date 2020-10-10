@@ -1,9 +1,10 @@
 # GoodiesForEmployees
+1.
+The inputs will be read from input_file.txt 
+The output will written be into output_file.txt
 
-input_file.txt has the inputs.
-The output will written into output_file.txt
-
-goodies.py
+2.
+Problem Statement
 
 Let's say the HR team of a company has goodies set of size N each with a different price tag for each goodie. Now the HR team has to distribute the goodies among the M employees in the company such that one employee receives one goodie. Find out the goodies the HR team can distribute so that the difference between the low price goodie and the high price goodie selected is minimum.
 
@@ -40,3 +41,11 @@ Alexa: 9999
 
 And the difference between the chosen goodie with highest price and the lowest price is 199
 
+3.
+Instructions to run the code
+
+git clone https://github.com/ChaitraL99/GoodiesForEmployees
+
+cd GoodiesForEmployees
+
+python goodies.py
